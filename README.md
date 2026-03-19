@@ -30,7 +30,7 @@ The dataset consists of survey responses collected to assess safety practices an
 [Page1]
 <img width="1350" height="612" alt="Dashboard1" src="https://github.com/user-attachments/assets/f1f3f943-eb6b-4f7b-bd1a-6e0b9fa58321" />
 
-[Page1]
+[Page2]
 <img width="1346" height="615" alt="Dashboard2" src="https://github.com/user-attachments/assets/3d0517bc-18d4-47f2-9d84-fe88195de497" />
 
 
